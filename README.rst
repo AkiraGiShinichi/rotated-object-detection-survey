@@ -46,6 +46,7 @@ Somewhat meaningful
 
 Brief
 -----
+* may interested in paper: `Amodal Detection of 3D Objects: Inferring 3D Bounding Boxes from 2D Ones in RGB-Depth Images`
 
 *********
 Unchecked
@@ -67,3 +68,6 @@ Brief
 -----
 * Master Thesis:
     * methodical document
+
+3. `Single-Stage Rotation-Decoupled Detector for Oriented Object_Oct2020 <https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwie5tPq_ujvAhWKwJQKHZpnA7QQFjAPegQIGhAD&url=https%3A%2F%2Fwww.mdpi.com%2F2072-4292%2F12%2F19%2F3262%2Fpdf&usg=AOvVaw1ga1r43MfgO05mZI2WNVM5>`_
+================================================================================================================================================================================================================================================================================================
